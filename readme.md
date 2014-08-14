@@ -9,3 +9,9 @@ Types of file included:
 
 - `*.123dx` are 3D editable design file with [123D Design](http://www.123dapp.com/design)
 - `*.stl` files are 3D design files
+
+File explanations:
+
+1. `base-bottom.123dx` - 2D projection of the bottom enclosure before 3D extrusion
+
+	![](readme-img/base-bottom.png)
