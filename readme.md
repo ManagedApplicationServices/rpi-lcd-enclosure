@@ -25,4 +25,4 @@ File explanations:
 
 1. `base-bottom.123dx` - 2D projection of the bottom enclosure before 3D extrusion
 
-	![](readme-img/base-bottom.png)
+	![](readme-img/2d-bottom.png)
