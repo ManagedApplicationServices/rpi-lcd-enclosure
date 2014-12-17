@@ -6,4 +6,8 @@ All designs were created using [InkScape](https://www.inkscape.org/en/) and expo
 
 	![](initial-unmerged-notes.jpg)
 - **3mm** has the designs for base and 4 sides of the enclosure
-- **2mm** has the designs for the top 2 acrylic holding the LCD
+
+	![](3mm.png)
+- **2mm** has the designs for the top 2 acrylic pieces holding the LCD
+
+	![](2mm.png)
